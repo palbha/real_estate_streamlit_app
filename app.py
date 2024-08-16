@@ -5,9 +5,9 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 import os
 
-os.environ["OPENAI_API_KEY"] = "voc-926520160126677339534866a69ec9cd0b69.41475097"
-os.environ["OPENAI_API_BASE"] = "https://openai.vocareum.com/v1"
 
+os.environ["OPENAI_API_KEY"] = "***"
+os.environ["OPENAI_API_BASE"] = "https://openai.vocareum.com/v1"
 
 # Initialize OpenAI LLM and embeddings
 llm = OpenAI(openai_api_key=os.environ["OPENAI_API_KEY"],model_name="gpt-3.5-turbo-0125", temperature=0.5, max_tokens=2500)

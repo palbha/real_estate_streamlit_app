@@ -1,0 +1,308 @@
+1. Luxurious penthouse in the heart of Manhattan, New York
+Price: $5,000,000
+Location: Upper East Side
+Surface: 3,000 sq ft
+Bedrooms: 4, Bathrooms: 4
+Property type: Condo
+Amenities: Rooftop terrace, concierge service, fitness center
+Neighborhood: Upscale area with top restaurants and shopping
+
+---
+2. Waterfront estate in Miami Beach, Florida
+Price: $8,500,000
+Location: Star Island
+Surface: 7,000 sq ft
+Bedrooms: 6, Bathrooms: 7
+Property type: Single-family home
+Amenities: Private dock, pool, guest house
+Neighborhood: Exclusive island with stunning views of the bay
+
+---
+3. Historic townhouse in Georgetown, Washington D.C.
+Price: $2,500,000
+Location: Georgetown
+Surface: 2,500 sq ft
+Bedrooms: 3, Bathrooms: 3
+Property type: Townhouse
+Amenities: Original hardwood floors, fireplace, garden
+Neighborhood: Charming cobblestone streets with boutique shops and cafes
+
+---
+4. Modern condo with city views in San Francisco, California
+Price: $1,200,000
+Location: South of Market
+Surface: 1,200 sq ft
+Bedrooms: 2, Bathrooms: 2
+Property type: Condo
+Amenities: Balcony, underground parking, rooftop pool
+Neighborhood: Trendy area with tech companies and vibrant nightlife
+
+---
+5. Mountain retreat in Aspen, Colorado
+Price: $4,000,000
+Location: Red Mountain
+Surface: 5,000 sq ft
+Bedrooms: 5, Bathrooms: 6
+Property type: Single-family home
+Amenities: Hot tub, home theater, ski-in/ski-out access
+Neighborhood: Exclusive neighborhood with stunning mountain views
+
+---
+6. Beachfront villa in Malibu, California
+Price: $10,000,000
+Location: Carbon Beach
+Surface: 8,000 sq ft
+Bedrooms: 7, Bathrooms: 8
+Property type: Single-family home
+Amenities: Infinity pool, private beach access, wine cellar
+Neighborhood: Celebrities' favorite spot with pristine beaches and upscale dining
+
+---
+7. Historic brownstone in Brooklyn, New York
+Price: $1,800,000
+Location: Park Slope
+Surface: 2,000 sq ft
+Bedrooms: 4, Bathrooms: 2
+Property type: Townhouse
+Amenities: Original details, backyard garden, rooftop deck
+Neighborhood: Family-friendly area with tree-lined streets and top-rated schools
+
+---
+8. Luxury penthouse with panoramic views in Chicago, Illinois
+Price: $3,500,000
+Location: Streeterville
+Surface: 4,500 sq ft
+Bedrooms: 3, Bathrooms: 4
+Property type: Condo
+Amenities: Floor-to-ceiling windows, private elevator, rooftop pool
+Neighborhood: Vibrant neighborhood with lakefront parks and Michelin-star restaurants
+
+---
+9. Mediterranean-style mansion in Beverly Hills, California
+Price: $15,000,000
+Location: Beverly Hills
+Surface: 10,000 sq ft
+Bedrooms: 8, Bathrooms: 10
+Property type: Single-family home
+Amenities: Tennis court, home gym, movie theater
+Neighborhood: Iconic neighborhood with luxury boutiques and celebrity residents
+
+---
+10. Contemporary townhouse with skyline views in Seattle, Washington
+Price: $1,500,000
+Location: Capitol Hill
+Surface: 2,500 sq ft
+Bedrooms: 3, Bathrooms: 3
+Property type: Townhouse
+Amenities: Rooftop deck, gourmet kitchen, attached garage
+Neighborhood: Hip neighborhood with craft breweries and eclectic shops
+
+---
+11. Waterfront condo in Key West, Florida
+Price: $900,000
+Location: Old Town
+Surface: 1,500 sq ft
+Bedrooms: 2, Bathrooms: 2
+Property type: Condo
+Amenities: Balcony overlooking the ocean, pool, marina access
+Neighborhood: Historic area with colorful architecture and lively nightlife
+
+---
+12. Ranch-style estate in Scottsdale, Arizona
+Price: $2,000,000
+Location: Paradise Valley
+Surface: 4,000 sq ft
+Bedrooms: 4, Bathrooms: 5
+Property type: Single-family home
+Amenities: Horse stables, outdoor kitchen, pool
+Neighborhood: Upscale area with golf courses and desert landscapes
+
+---
+13. Contemporary loft in Portland, Oregon
+Price: $800,000
+Location: Pearl District
+Surface: 1,200 sq ft
+Bedrooms: 1, Bathrooms: 2
+Property type: Loft
+Amenities: Exposed brick walls, high ceilings, rooftop garden
+Neighborhood: Artsy district with galleries, cafes, and breweries
+
+---
+14. Tudor-style home in Greenwich, Connecticut
+Price: $3,000,000
+Location: Belle Haven
+Surface: 3,500 sq ft
+Bedrooms: 5, Bathrooms: 4
+Property type: Single-family home
+Amenities: Library, wine cellar, landscaped gardens
+Neighborhood: Prestigious area with waterfront estates and country clubs
+
+---
+15. Beachfront bungalow in Santa Barbara, California
+Price: $1,500,000
+Location: Montecito
+Surface: 1,800 sq ft
+Bedrooms: 3, Bathrooms: 2
+Property type: Single-family home
+Amenities: Ocean views, outdoor shower, fire pit
+Neighborhood: Upscale coastal community with Mediterranean-style architecture
+
+---
+16. Colonial-style mansion in Charleston, South Carolina
+Price: $4,500,000
+Location: South of Broad
+Surface: 6,000 sq ft
+Bedrooms: 6, Bathrooms: 7
+Property type: Single-family home
+Amenities: Wraparound porch, carriage house, garden
+Neighborhood: Historic district with cobblestone streets and antebellum homes
+
+---
+17. Modern townhouse with city skyline views in Austin, Texas
+Price: $1,000,000
+Location: Downtown
+Surface: 1,800 sq ft
+Bedrooms: 2, Bathrooms: 3
+Property type: Townhouse
+Amenities: Smart home technology, rooftop deck, attached garage
+Neighborhood: Tech hub with live music venues and food trucks
+
+---
+18. Lakefront cottage in Lake Tahoe, Nevada
+Price: $700,000
+Location: Incline Village
+Surface: 1,000 sq ft
+Bedrooms: 2, Bathrooms: 1
+Property type: Single-family home
+Amenities: Private beach access, deck, wood-burning fireplace
+Neighborhood: Outdoor enthusiast's paradise with skiing and hiking trails
+
+---
+19. Spanish-style villa in Santa Fe, New Mexico
+Price: $1,200,000
+Location: Historic Eastside
+Surface: 2,500 sq ft
+Bedrooms: 3, Bathrooms: 2
+Property type: Single-family home
+Amenities: Courtyard, adobe fireplace, mountain views
+Neighborhood: Artistic community with adobe architecture and galleries
+
+---
+20. Penthouse with ocean views in Honolulu, Hawaii
+Price: $3,000,000
+Location: Waikiki
+Surface: 2,000 sq ft
+Bedrooms: 3, Bathrooms: 3
+Property type: Condo
+Amenities: Lanai, infinity pool, beach access
+Neighborhood: Tourist hotspot with white sand beaches and luxury resorts
+
+---
+21. Contemporary condo in Denver, Colorado
+Price: $600,000
+Location: LoHi
+Surface: 1,000 sq ft
+Bedrooms: 1, Bathrooms: 1
+Property type: Condo
+Amenities: Open floor plan, rooftop deck, fitness center
+Neighborhood: Hip neighborhood with craft breweries and trendy eateries
+
+---
+22. Victorian mansion in Savannah, Georgia
+Price: $1,800,000
+Location: Historic District
+Surface: 3,000 sq ft
+Bedrooms: 4, Bathrooms: 3
+Property type: Single-family home
+Amenities: Wraparound porch, carriage house, garden
+Neighborhood: Charming area with cobblestone streets and oak-lined squares
+
+---
+23. Ski-in/ski-out chalet in Park City, Utah
+Price: $2,500,000
+Location: Deer Valley
+Surface: 3,500 sq ft
+Bedrooms: 5, Bathrooms: 4
+Property type: Single-family home
+Amenities: Hot tub, home theater, mountain views
+Neighborhood: Ski resort town with world-class slopes and luxury amenities
+
+---
+24. Mid-century modern home in Palm Springs, California
+Price: $900,000
+Location: Vista Las Palmas
+Surface: 1,800 sq ft
+Bedrooms: 3, Bathrooms: 2
+Property type: Single-family home
+Amenities: Pool, desert landscaping, outdoor lounge
+Neighborhood: Retro-chic neighborhood with vintage shops and art galleries
+
+---
+25. Beachfront condo in Myrtle Beach, South Carolina
+Price: $500,000
+Location: Oceanfront
+Surface: 1,200 sq ft
+Bedrooms: 2, Bathrooms: 2
+Property type: Condo
+Amenities: Balcony with ocean views, pool, fitness center
+Neighborhood: Resort town with golf courses and amusement parks
+
+---
+26. Craftsman bungalow in Portland, Maine
+Price: $400,000
+Location: Munjoy Hill
+Surface: 1,000 sq ft
+Bedrooms: 2, Bathrooms: 1
+Property type: Single-family home
+Amenities: Wood stove, fenced yard, deck
+Neighborhood: Quaint area with waterfront parks and seafood restaurants
+
+---
+27. Contemporary penthouse in Atlanta, Georgia
+Price: $1,500,000
+Location: Buckhead
+Surface: 2,500 sq ft
+Bedrooms: 3, Bathrooms: 3
+Property type: Condo
+Amenities: Floor-to-ceiling windows, private terrace, pool
+Neighborhood: Upscale district with designer boutiques and fine dining
+
+---
+28. Colonial-style home in Annapolis, Maryland
+Price: $700,000
+Location: Historic District
+Surface: 2,000 sq ft
+Bedrooms: 3, Bathrooms: 2
+Property type: Single-family home
+Amenities: Brick patio, fireplace, garden
+Neighborhood: Maritime town with waterfront views and seafood restaurants
+
+---
+29. Lakefront cabin in Lake Placid, New York
+Price: $300,000
+Location: Mirror Lake
+Surface: 800 sq ft
+Bedrooms: 1, Bathrooms: 1
+Property type: Single-family home
+Amenities: Dock, wood stove, mountain views
+Neighborhood: Quaint village with Olympic history and outdoor activities
+
+---
+30. Modern loft in Nashville, Tennessee
+Price: $500,000
+Location: The Gulch
+Surface: 1,200 sq ft
+Bedrooms: 1, Bathrooms: 1
+Property type: Loft
+Amenities: Exposed ductwork, industrial finishes, rooftop pool
+Neighborhood: Trendy area with live music venues and artisanal eateries
+
+---
+31. Beachfront cottage in Cape Cod, Massachusetts
+Price: $600,000
+Location: Chatham
+Surface: 1,000 sq ft
+Bedrooms: 2, Bathrooms: 1
+Property type: Single-family home
+Amenities: Deck with ocean views, outdoor shower, fireplace
+Neighborhood: Coastal town with l
